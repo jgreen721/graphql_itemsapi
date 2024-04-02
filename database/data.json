@@ -1,0 +1,124 @@
+{
+  "products":[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 599.99,
+    "quantity": 50,
+    "rated": 8,
+    "itemType": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 89.99,
+    "quantity": 100,
+    "rated": 7,
+    "itemType": "Sports"
+  },
+  {
+    "id": 3,
+    "name": "Drill Set",
+    "price": 129.99,
+    "quantity": 30,
+    "rated": 9,
+    "itemType": "Tools"
+  },
+  {
+    "id": 4,
+    "name": "Sofa",
+    "price": 799.99,
+    "quantity": 20,
+    "rated": 8,
+    "itemType": "Furniture"
+  },
+  {
+    "id": 5,
+    "name": "Granola Bars",
+    "price": 4.99,
+    "quantity": 200,
+    "rated": 6,
+    "itemType": "Food"
+  },
+  {
+    "id": 6,
+    "name": "Laptop",
+    "price": 999.99,
+    "quantity": 40,
+    "rated": 9,
+    "itemType": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Basketball",
+    "price": 29.99,
+    "quantity": 50,
+    "rated": 7,
+    "itemType": "Sports"
+  },
+  {
+    "id": 8,
+    "name": "Screwdriver Set",
+    "price": 19.99,
+    "quantity": 60,
+    "rated": 8,
+    "itemType": "Tools"
+  },
+  {
+    "id": 9,
+    "name": "Dining Table",
+    "price": 499.99,
+    "quantity": 15,
+    "rated": 8,
+    "itemType": "Furniture"
+  },
+  {
+    "id": 10,
+    "name": "Apples",
+    "price": 1.99,
+    "quantity": 300,
+    "rated": 7,
+    "itemType": "Food"
+  },
+  {
+    "id": 11,
+    "name": "Smartwatch",
+    "price": 299.99,
+    "quantity": 35,
+    "rated": 8,
+    "itemType": "Electronics"
+  },
+  {
+    "id": 12,
+    "name": "Yoga Mat",
+    "price": 24.99,
+    "quantity": 80,
+    "rated": 6,
+    "itemType": "Sports"
+  },
+  {
+    "id": 13,
+    "name": "Hammer",
+    "price": 9.99,
+    "quantity": 70,
+    "rated": 7,
+    "itemType": "Tools"
+  },
+  {
+    "id": 14,
+    "name": "Coffee Table",
+    "price": 199.99,
+    "quantity": 25,
+    "rated": 8,
+    "itemType": "Furniture"
+  },
+  {
+    "id": 15,
+    "name": "Rice",
+    "price": 3.99,
+    "quantity": 150,
+    "rated": 6,
+    "itemType": "Food"
+  }
+]
+}
